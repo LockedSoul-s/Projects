@@ -1,6 +1,6 @@
 # Technical Competitions
 
-Competition projects where I applied classroom knowledge to real datasets and problem statements. These notebooks emphasize structured experimentation, reproducibility, and clear modeling pipelines.
+Competition projects where I applied theoretical knowledge to real datasets and problem statements. These notebooks emphasize structured experimentation, reproducibility, and clear modeling pipelines.
 
 ## Contents
 - **ENSI ORBYX ML Challenge (Flood Prediction)-/** – notebooks exploring baseline to improved flood prediction pipelines.
