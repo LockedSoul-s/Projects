@@ -16,3 +16,6 @@ Portfolio of projects completed during my 1st year of engineering studies. This 
 - Open the README in each folder to understand goals, datasets, and the skills practiced.
 - Notebooks (`.ipynb`) are runnable in Jupyter or Google Colab.
 - Zipped project bundles contain full DataCamp project assets.
+## Favorite projects (`Self_improvement/solo_projects`)
+- **GEFCom 2012 Load Forecasting (Hierarchical_energy_forecasting.ipynb):** end-to-end time-series pipeline on the GEFCom 2012 dataset, forecasting electrical load across multiple zones with hierarchical reconciliation so zone forecasts roll up to the total.
+- **Walmart Weekly Sales Forecasting (walmart-weekly-sales-forecast.ipynb):** full workflow on the Walmart sales dataset, including data preparation, exploratory analysis, and hierarchical forecasting with the Nixtla ecosystem.
